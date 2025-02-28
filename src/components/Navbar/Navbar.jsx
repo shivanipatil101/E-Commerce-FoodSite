@@ -6,7 +6,7 @@ const NavbarMenu = [
     { id: 1, title: "Home", link: "#home" },
     { id: 2, title: "About", link: "#about" },
     { id: 3, title: "Menus", link: "#menus" },
-    { id: 4, title: "Order", link: "#order" },
+    { id: 4, title: "Order", link: "#menus" },
     { id: 5, title: "Contact", link: "#contact" },
   ];
   
