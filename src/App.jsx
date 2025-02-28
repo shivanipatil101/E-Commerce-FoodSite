@@ -18,9 +18,6 @@ const App = () => {
       <div id="menus">
         <RestaurantList />
       </div>
-      <div id="menus">
-        <RestaurantList />
-      </div>
       <div id="contact">
         <Footer />
       </div>
