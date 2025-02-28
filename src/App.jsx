@@ -18,7 +18,7 @@ const App = () => {
       <div id="menus">
         <RestaurantList />
       </div>
-      <div id="order">
+      <div id="menus">
         <RestaurantList />
       </div>
       <div id="contact">
